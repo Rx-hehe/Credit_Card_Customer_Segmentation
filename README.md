@@ -21,5 +21,5 @@ The dataset used is `CC_GENERAL.csv`.
 
 The goal is to identify customer segments based on credit card behavior and understand how these segments can support marketing strategies.
 
-##Author
+## Author
 Fatimah Al-Maqhawi 
